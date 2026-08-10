@@ -1,153 +1,83 @@
-<!-- =========================
-     HERO SECTION
-========================= -->
+<!-- ====================================================== -->
+<!--                     HERO SECTION                       -->
+<!-- ====================================================== -->
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=200&section=header&text=Surbhi%20Devi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
-    width="100%"
-  />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=42&duration=3000&pause=1200&color=7C6CE7&center=true&vCenter=true&width=700&height=80&lines=Surbhi+Devi" alt="Surbhi Devi"/>
+
+<h3>💻 Full Stack Developer · MERN · DSA</h3>
+
+<p>
+  <b>Building practical web applications · Learning continuously · Solving problems</b>
 </p>
 
-<h3 align="center">
-  Full Stack Developer • MERN • DSA
-</h3>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=680&lines=B.Tech+CSE+Student+%7C+2027;Building+Modern+Web+Applications;MERN+Stack+Developer;Strengthening+DSA+%26+Backend+Skills;Open+to+Remote+Opportunities"
-      alt="Typing SVG"
-    />
-  </a>
+<p>
+  🌍 <b>Open to Remote Internships & Software Development Opportunities</b>
 </p>
 
-<p align="center">
-  <a href="www.linkedin.com/in/surbhi-devi-494196315">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://drive.google.com/file/d/1KYAMOLuRddYijnmmc9Gl0GCHo-DV6f1Y/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-View-6C63FF?style=for-the-badge&logo=readme&logoColor=white" />
-  </a>
-  <a href="mailto:surbhimishra3135@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-00A67E?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<br/>
+
+<p>
+<a href="https://www.linkedin.com/in/surbhi-devi-494196315/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="YOUR_RESUME_LINK">
+<img src="https://img.shields.io/badge/Resume-View-6C63FF?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:surbhimishra3135@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-00A878?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/Surbhi_Devi/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Surbhi-Devi21&label=Profile%20Views&style=flat-square" />
+<p>
+<img src="https://komarev.com/ghpvc/?username=Surbhi-Devi21&label=Profile%20Views&color=7C6CE7&style=flat-square"/>
 </p>
+
+</div>
+
+<br/>
 
 ---
 
-## 👋 About Me
+<!-- ====================================================== -->
+<!--                      ABOUT ME                          -->
+<!-- ====================================================== -->
 
-<p align="center">
-  <b>
-    B.Tech Computer Science & Engineering student focused on
-    Full Stack Development, Backend Engineering and DSA.
-  </b>
-</p>
-
-<p align="center">
-  I enjoy building practical web applications, learning new technologies,
-  and continuously improving my problem-solving and software engineering skills.
-</p>
-
-<p align="center">
-  🌍 <b>Open to remote internships, software development opportunities & collaborations.</b>
-</p>
-
----
-
-# 💻 What I Work With
-
-### 👨‍💻 Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,js,python" />
-</p>
-
-### 🎨 Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-</p>
-
-### ⚙️ Backend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Database
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### 🧰 Tools & Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vite" />
-</p>
-
----
-
-# 🚀 Selected Projects
+## ✨ About Me
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="58%" valign="top">
 
-<h3 align="center">🎓 EduVerse</h3>
+### 👋 Hi, I'm Surbhi
 
-<p align="center">
-  <b>Learning Management System</b>
-</p>
+I'm a **B.Tech Computer Science & Engineering student** and an aspiring **Full Stack Developer** focused on building practical, user-friendly web applications.
 
-<p>
-A responsive LMS frontend designed for students to explore courses and navigate educational content through a clean and modern interface.
-</p>
+I enjoy turning ideas into working products, exploring backend systems, and strengthening my **Data Structures & Algorithms** skills.
 
-<p>
-<b>Tech:</b><br>
-React.js • JavaScript • React Router<br>
-Tailwind CSS • Bootstrap • Vite
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://learning-management-system-ten-liard.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+🎓 **Computer Science & Engineering**
+
+💻 **MERN Stack Development**
+
+🧠 **DSA & Problem Solving**
+
+🌍 **Open to Remote Opportunities**
 
 </td>
 
-<td width="50%" valign="top">
+<td width="42%" align="center">
 
-<h3 align="center">🎟️ EventSphere</h3>
-
-<p align="center">
-  <b>Full-Stack Event Booking Platform</b>
-</p>
-
-<p>
-A MERN-based platform for discovering, booking and managing events with authentication, booking workflows and administrative features.
-</p>
-
-<p>
-<b>Tech:</b><br>
-React • Node.js • Express • MongoDB<br>
-JWT • Nodemailer • Tailwind CSS
-</p>
-
-<p align="center">
-  <a href="https://event-sphere-xi-ten.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-00A67E?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-6f4e6d4e-7e9c-4b70-9b7d-8b0b6c1e4d4e.gif" width="280"/>
 
 </td>
 
@@ -156,101 +86,237 @@ JWT • Nodemailer • Tailwind CSS
 
 ---
 
-# 🌱 Currently Learning
+<!-- ====================================================== -->
+<!--                  WHAT I WORK WITH                     -->
+<!-- ====================================================== -->
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=redis" />
-</p>
+## 🧩 What I Work With
 
-<p align="center">
-  <b>Redis</b>
-  &nbsp; • &nbsp;
-  Backend Development
-  &nbsp; • &nbsp;
-  Data Structures & Algorithms
-</p>
+<div align="center">
 
----
+### 💻 Languages
 
-# 🧠 Current Focus
+<img src="https://skillicons.dev/icons?i=cpp,js,python"/>
 
-<p align="center">
+<br/><br/>
 
-🔹 Building stronger MERN applications  
-🔹 Improving backend fundamentals  
-🔹 Practicing DSA consistently  
-🔹 Learning Redis & caching concepts  
-🔹 Writing cleaner and more maintainable code  
+### 🎨 Frontend
 
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite"/>
 
----
+<br/><br/>
 
-# 📊 GitHub Activity
+### ⚙️ Backend & Database
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Surbhi-Devi21&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
-    height="165"
-  />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surbhi-Devi21&layout=compact&hide_border=true&theme=transparent"
-    height="165"
-  />
-</p>
+<br/><br/>
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode"/>
+
+</div>
 
 ---
 
-# 📄 Resume
+<!-- ====================================================== -->
+<!--                  CURRENTLY LEARNING                   -->
+<!-- ====================================================== -->
 
-<p align="center">
-  <a href="YOUR_RESUME_LINK">
-    <img
-      src="https://img.shields.io/badge/VIEW%20MY%20RESUME-6C63FF?style=for-the-badge&logo=readme&logoColor=white"
-    />
-  </a>
-</p>
+## 🌱 Currently Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=redis" width="55"/>
+
+<br/>
+
+<b>Redis</b>
+
+<br/>
+
+<sub>
+Caching · Backend Performance · Data Structures
+</sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/DSA-Problem%20Solving-7C6CE7?style=flat-square&logo=leetcode&logoColor=white"/>
+
+</div>
 
 ---
 
-# 🤝 Let's Connect
+<!-- ====================================================== -->
+<!--                  FEATURED PROJECTS                    -->
+<!-- ====================================================== -->
 
-<p align="center">
+## 🚀 Featured Projects
 
-<a href="YOUR_LINKEDIN_LINK">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Surbhi%20Devi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-  />
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎓 EduVerse
+
+**Learning Management System**
+
+A modern React-based LMS focused on creating a clean and intuitive learning experience for students.
+
+**Tech Stack**
+
+`React.js` `JavaScript` `React Router`  
+`Tailwind CSS` `Bootstrap` `Vite`
+
+<br/>
+
+<a href="https://learning-management-system-ten-liard.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-View-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Surbhi-Devi21">
-  <img
-    src="https://img.shields.io/badge/GitHub-Surbhi--Devi21-181717?style=for-the-badge&logo=github&logoColor=white"
-  />
+<a href="https://github.com/Surbhi-Devi21/Learning-management-system">
+<img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎫 EventSphere
+
+**Full Stack Event Booking Platform**
+
+A MERN application featuring authentication, OTP verification, role-based access, event management and an admin dashboard.
+
+**Tech Stack**
+
+`React` `Node.js` `Express`  
+`MongoDB` `JWT` `Nodemailer`
+
+<br/>
+
+<a href="https://event-sphere-xi-ten.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-View-00A67E?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Surbhi-Devi21/EventSphere">
+<img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ====================================================== -->
+<!--                  PROBLEM SOLVING                      -->
+<!-- ====================================================== -->
+
+## 🧠 Problem Solving
+
+<div align="center">
+
+<p>
+<strong>Currently strengthening Data Structures & Algorithms through consistent practice.</strong>
+</p>
+
+<br/>
+
+<a href="https://leetcode.com/u/Surbhi_Devi/">
+<img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<br/><br/>
+
+<sub>
+Arrays · Strings · Hashing · Two Pointers · Sliding Window · Stack · Queue · Binary Search · Trees · Graphs · Dynamic Programming
+</sub>
+
+</div>
+
+---
+
+<!-- ====================================================== -->
+<!--                    GITHUB STATS                       -->
+<!-- ====================================================== -->
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=Surbhi-Devi21&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+height="165"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surbhi-Devi21&layout=compact&theme=tokyonight&hide_border=true"
+height="165"
+/>
+
+<br/><br/>
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=Surbhi-Devi21&theme=tokyonight&hide_border=true"
+height="165"
+/>
+
+</div>
+
+---
+
+<!-- ====================================================== -->
+<!--                    WHAT I VALUE                       -->
+<!-- ====================================================== -->
+
+## 💡 What I Value
+
+<div align="center">
+
+| 🧩 Problem Solving | 🏗️ Clean Code | 📚 Continuous Learning | 🤝 Collaboration |
+|:---:|:---:|:---:|:---:|
+| Think clearly | Build maintainably | Keep improving | Build together |
+
+</div>
+
+---
+
+<!-- ====================================================== -->
+<!--                     CONNECT                           -->
+<!-- ====================================================== -->
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<p>
+<strong>Interested in building, learning or working together?</strong>
+</p>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/surbhi-devi-494196315/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;
 
 <a href="mailto:surbhimishra3135@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-  />
+<img src="https://img.shields.io/badge/Email-Reach%20Out-00A878?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
-<p align="center">
-  <b>📧 surbhimishra3135@gmail.com</b>
-</p>
+<br/>
 
----
+<div align="center">
 
-<p align="center">
-  <i>Building • Learning • Solving • Growing 🚀</i>
-</p>
+### 🚀 Keep Learning · Keep Building · Keep Solving
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=100&section=footer"
-    width="100%"
-  />
-</p>
+<sub>Made with curiosity & consistency by <b>Surbhi Devi</b></sub>
+
+</div>
