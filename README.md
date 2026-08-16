@@ -77,7 +77,7 @@ I enjoy turning ideas into working products, exploring backend systems, and stre
 
 <td width="42%" align="center">
 
-<img src="https://media1.tenor.com/m/IF2JdxzmyN4AAAAC/coding-girl.gif" width="300"/>
+<img src="https://media1.tenor.com/m/IF2JdxzmyN4AAAAC/coding-girl.gif" width="3800" height="380"/>
 
 </td>
 
