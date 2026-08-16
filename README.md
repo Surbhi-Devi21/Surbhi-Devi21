@@ -77,7 +77,7 @@ I enjoy turning ideas into working products, exploring backend systems, and stre
 
 <td width="42%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-6f4e6d4e-7e9c-4b70-9b7d-8b0b6c1e4d4e.gif" width="280"/>
+<img src="https://static.vecteezy.com/system/resources/thumbnails/078/993/189/small_2x/an-icon-showing-a-vr-coding-designed-in-flat-style-vector.jpg" width="280"/>
 
 </td>
 
