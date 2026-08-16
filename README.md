@@ -77,7 +77,7 @@ I enjoy turning ideas into working products, exploring backend systems, and stre
 
 <td width="42%" align="center">
 
-<img src="https://static.vecteezy.com/system/resources/thumbnails/078/993/189/small_2x/an-icon-showing-a-vr-coding-designed-in-flat-style-vector.jpg" width="280"/>
+<img src="https://in.images.search.yahoo.com/yhs/view;_ylt=AwrKBGaw8YFq7McV2M8O9olQ;_ylu=c2VjA3NyBHNsawNpbWcEb2lkA2E4Y2ZlMmY4OTliZjMxMGM2YmE3YWRkY2ZkMWEwZTk2BGdwb3MDNDgEaXQDYmluZw--?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fyhs%2Fsearch%3Fp%3Dcoding%2Bgif%26type%3Dtype80160-137157531%26fr%3Dyhs-sz-002%26hsimp%3Dyhs-002%26hspart%3Dsz%26param1%3D222395458%26tab%3Dorganic%26ri%3D48&w=498&h=374&imgurl=media1.tenor.com%2Fm%2FIF2JdxzmyN4AAAAC%2Fcoding-girl.gif&rurl=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-girl-gif-2332171326726785246&size=1070KB&p=coding+gif&oid=a8cfe2f899bf310c6ba7addcfd1a0e96&fr2=&fr=yhs-sz-002&tt=Coding+Girl+Sticker+-+Coding+girl+-+Discover+%26+Share+GIFs&b=0&ni=21&no=48&ts=&tab=organic&sigr=1uxJcdrW8iXF&sigb=ZpuH4TOmuW65&sigi=PcsP2CGrhZ3b&sigt=ckC2V7rIDTZ2&.crumb=.T8BUhkh.5d&fr=yhs-sz-002&hsimp=yhs-002&hspart=sz&type=type80160-137157531&param1=222395458" width="300"/>
 
 </td>
 
