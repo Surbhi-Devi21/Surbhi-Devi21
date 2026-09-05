@@ -159,24 +159,20 @@ Caching · Backend Performance · Data Structures
 
 <td width="50%" valign="top">
 
-### 🎓 EduVerse
+### 🤖 AI Resume Category Classifier
 
-**Learning Management System**
+**Machine Learning Resume Classification**
 
-A modern React-based LMS focused on creating a clean and intuitive learning experience for students.
+A machine learning application that analyzes resume text and predicts its most relevant professional category using NLP and text classification techniques.
 
 **Tech Stack**
 
-`React.js` `JavaScript` `React Router`  
-`Tailwind CSS` `Bootstrap` `Vite`
+`Python` `Scikit-learn` `NLP`  
+`TF-IDF` `KNN` `Streamlit`
 
 <br/>
 
-<a href="https://learning-management-system-ten-liard.vercel.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-View-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Surbhi-Devi21/Learning-management-system">
+<a href="https://github.com/Surbhi-Devi21/ai-resume-category-classifier">
 <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
