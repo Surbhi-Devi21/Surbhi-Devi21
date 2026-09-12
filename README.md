@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://drive.google.com/file/d/1KYAMOLuRddYijnmmc9Gl0GCHo-DV6f1Y/view?usp=drive_link">
+<a href="https://drive.google.com/file/d/1i7WC_Bniow7obDQXJsEeyVEUb9DIyLnU/view?usp=drive_link">
 <img src="https://img.shields.io/badge/Resume-View-6C63FF?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 &nbsp;
